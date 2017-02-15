@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mac: MyString
+  datetime: 2017-02-14 19:26:05
+  data: 
+  Device: one
+
+two:
+  mac: MyString
+  datetime: 2017-02-14 19:26:05
+  data: 
+  Device: two
